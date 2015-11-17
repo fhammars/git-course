@@ -1,8 +1,0 @@
-
-
-int main()
-{
-
-	//nice comment
-
-}
