@@ -1,0 +1,8 @@
+
+
+int main()
+{
+
+	//nice comment
+
+}
